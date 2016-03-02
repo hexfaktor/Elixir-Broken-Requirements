@@ -1,4 +1,4 @@
-# BrokenRequirements
+# BrokenRequirements [![Deps Status](https://beta.hexfaktor.org/badge/all/github/hexfaktor/Elixir-Broken-Requirements.svg)](https://beta.hexfaktor.org/github/hexfaktor/Elixir-Broken-Requirements)
 
 **TODO: Add description**
 
